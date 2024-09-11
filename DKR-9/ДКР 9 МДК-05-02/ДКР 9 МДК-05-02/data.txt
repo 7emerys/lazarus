@@ -1,0 +1,4 @@
+CS2,Valve,False,21.08.2012,Бесплатно
+Dota 2,Valve,False,09.07.2013,Бесплатно
+Forza Horizon 4,Xbox Game Studios,True,09.03.2021,1500руб.
+,,False,,
