@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiC:\Users\arsen\OneDrive\Рабочий стол\МДК-05-02\МДК-05-02 ЛР 20,21\20(3)\lib\x86_64-win64&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\arsen\OneDrive\Рабочий стол\МДК-05-02\МДК-05-02 ЛР 20,21\20(3)\&quot; &quot;-FUC:\Users\arsen\OneDrive\Рабочий стол\МДК-05-02\МДК-05-02 ЛР 20,21\20(3)\lib\x86_64-win64\&quot; &quot;-FEC:\Users\arsen\OneDrive\Рабочий стол\МДК-05-02\МДК-05-02 ЛР 20,21\20(3)\&quot; &quot;-oC:\Users\arsen\OneDrive\Рабочий стол\МДК-05-02\МДК-05-02 ЛР 20,21\20(3)\setkastrok.exe&quot; -dLCL -dLCLwin32 setkastrok.lpr"/>
+</CONFIG>
